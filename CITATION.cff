@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use these simulation inputs, please cite the associated arXiv preprint."
+title: "sc-permeation-est-air"
+type: dataset
+
+authors:
+  - family-names: Thomas
+    given-names: Rinto
+  - family-names: Prabhakar
+    given-names: Praveen Ranganath
+  - family-names: Tobias
+    given-names: Douglas J.
+  - family-names: von Domaros
+    given-names: Michael
+
+keywords:
+  - molecular dynamics
+  - NAMD
+  - Colvars
+  - metadynamics
+  - stratum corneum
+  - permeation
+
+preferred-citation:
+  type: article
+  title: "Modeling Diffusion and Permeation Across the Stratum Corneum Lipid Barrier"
+  authors:
+    - family-names: Thomas
+      given-names: Rinto
+    - family-names: Prabhakar
+      given-names: Praveen Ranganath
+    - family-names: Tobias
+      given-names: Douglas J.
+    - family-names: von Domaros
+      given-names: Michael
+  year: 2025
+  identifiers:
+    - type: other
+      value: arXiv:2510.14606
+  url: https://arxiv.org/abs/2510.14606
